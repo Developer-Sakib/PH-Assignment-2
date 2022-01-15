@@ -286,7 +286,7 @@ footer i{
 @media only screen and (max-width:768px)and (min-width: 601px){
     .popular-collections{
         display: grid;
-        grid-template-columns: repeat(2, 300px);
+        grid-template-columns: repeat(2, 340px);
         justify-content: space-evenly;
     justify-items: center;
     border-radius: 5px;
