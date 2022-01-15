@@ -58,6 +58,7 @@ body{
 .influencer-section{
     display:flex;
     justify-content: space-between;
+    width: 85%;
 }
 .influencer-title{
     font-size: 54px;
