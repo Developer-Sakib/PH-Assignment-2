@@ -129,7 +129,7 @@ body{
     padding: 15px;
     margin: 10px;
     border-radius: 10px;
-    box-shadow: 3px 3px 3px 3px rgba(187, 176, 176, 0.397) 
+    box-shadow: 3px 3px 3px 3px rgba(187, 176, 176, 0.397);
 }
 .price{
     color: rgb(85, 32, 65);
