@@ -78,7 +78,7 @@ body{
 
 }
 .influencer-img img{
-    width: 80%;
+    width: 85%;
 }
 .btn-link{
     text-decoration: none;
@@ -129,6 +129,10 @@ body{
     padding: 15px;
     margin: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px rgba(187, 176, 176, 0.397) 
+}
+.price{
+    color: rgb(85, 32, 65);
 }
 .popular-item .popular-details{
     color: #3A3A3A;
@@ -149,9 +153,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    width: 90%;
 }
 .contact-img img{
-    width: 70%;
+    width: 90%;
+    border-radius: 5px;
 }
 
 /* style form  */
@@ -188,6 +194,9 @@ footer{
     padding: 25px 0;
     background-color: #0A0826;
     text-align: center;
+}
+footer span{
+    color: rgb(29, 165, 83);
 }
 footer i{
     background-color: #757575; 
